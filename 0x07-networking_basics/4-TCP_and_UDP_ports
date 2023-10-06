@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Display listening sockets with associated program names using netstat
+
+
+netstat -l --program
